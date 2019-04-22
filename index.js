@@ -2,9 +2,9 @@
 var customerName = 'bob';
 
 function upperCaseCustomerName() {
-  customerName = 'BOB'
+  customerName = 'BOB';
 };
 
 function setBestCustomer() {
-
+ bestCustomer = 'not bob';
 };
